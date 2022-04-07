@@ -1,6 +1,6 @@
 # pestana022
 cursera test repository
-(!doctype html)
+<!DOCTYPE html>
 <html>
   <body>
     <p>hello</p>
